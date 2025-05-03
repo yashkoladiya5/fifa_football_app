@@ -1,0 +1,2 @@
+/Users/yash/Downloads/fifa_football_app-master/android/app/.cxx/Debug/51zb3m35/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/yash/Downloads/fifa_football_app-master/android/app/.cxx/Debug/51zb3m35/armeabi-v7a/CMakeFiles/rebuild_cache.dir

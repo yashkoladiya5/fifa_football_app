@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/yash/Documents/flutter/sdk/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/yash/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/yash/Downloads/fifa_football_app-master/android/app/.cxx/Debug/51zb3m35/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/yash/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/yash/Downloads/fifa_football_app-master/android/app/.cxx/Debug/51zb3m35/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
